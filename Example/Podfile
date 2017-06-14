@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'FunkyFMMine_Example' do
+  pod 'FunkyFMMine', :path => '../'
+
+  target 'FunkyFMMine_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

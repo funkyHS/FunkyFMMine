@@ -1,0 +1,6 @@
+framework module FunkyFMMine {
+  umbrella header "FunkyFMMine-umbrella.h"
+
+  export *
+  module * { export * }
+}

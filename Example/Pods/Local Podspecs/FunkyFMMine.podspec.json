@@ -1,0 +1,35 @@
+{
+  "name": "FunkyFMMine",
+  "version": "0.1.0",
+  "summary": "FunkyFMMine",
+  "description": "FunkyFMMine 是FM我的模块",
+  "homepage": "https://github.com/funkyHS/FunkyFMMine",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "funkyHS": "hs1024942667@163.com"
+  },
+  "source": {
+    "git": "https://github.com/funkyHS/FunkyFMMine.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FunkyFMMine/Classes/**/*",
+  "resource_bundles": {
+    "FunkyFMMine": [
+      "FunkyFMMine/Assets/*.png"
+    ]
+  },
+  "dependencies": {
+    "FunkyFMBase/Base": [
+
+    ],
+    "FunkyFMBase/Category": [
+
+    ]
+  }
+}
